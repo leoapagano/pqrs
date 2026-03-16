@@ -13,6 +13,8 @@
 	- Wall power uptime percentage
 - You can access this information at ups.leoapagano.com (behind Tailscale).
 
+![Screenshot showing the UPS Monitoring web dashboard](screenshot.png)
+
 ## Software Stack
 - This is intended to be run on a Debian LXC guest on a Proxmox host.
 - The following tools are used on the frontend:
